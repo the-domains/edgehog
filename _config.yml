@@ -1,0 +1,28 @@
+name: edgehog
+favicon: null
+layout_spectrum: 0.8897155181039125
+typography_spectrum: 0.6014259294606745
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9405985774938017
+  lightness: 0.13900405704043806
+  saturation: 0.290127772372216
+  rhythmicContrast: 0.8181266288738698
+purpose: []
